@@ -144,7 +144,6 @@ function showConway(gen) {
     }
     cellContainer.append(newRow);
   }
-  console.log(cellContainer);
 }
 let genCounter = 0;
 
