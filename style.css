@@ -1,0 +1,11 @@
+.cell-container {
+  display: flex;
+  flex-direction: row;
+  background-color: blue;
+  width: fit-content;
+  border: 2px black solid;
+}
+
+.blackcell {
+  border: 2px solid black;
+}
